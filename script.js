@@ -1,1 +1,1 @@
-
+let yourArray = ['name','01','true','false','undefined']
